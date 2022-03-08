@@ -1,0 +1,2 @@
+# grocd
+hyper local
